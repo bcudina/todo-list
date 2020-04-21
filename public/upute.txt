@@ -1,0 +1,16 @@
+1/-cmd, create-react-app, todo-list, cd todo-list, code .,
+2/-npm install bootstrap uuid --save
+   delate logo.svf iz src, zatim iz App.js izbrisano import logo, pa cijeli <header></header>, također izbrisan i import "./App.css"
+   App.css izbrisano sve
+3/-U src folderu otvorili component folder i novu komponentu Todoinput.js
+   zatim rcc i dobili smo class TodoInput, zatim otvarnje componenti TodoList i TodoItem.js
+4/-Imamo dvije componente za App.js i u prvu importujemo Todoinput, a u drugu TodoItem u TodoList.js. Imoirt u App.js bootstrao koji je u node.modules.
+   Import uuid from uuid, zatim i FontAwesome.
+
+5/-index.html promjeniti <title>To-Do List</title>
+6/-<!--Font Awesome--> kopiran link iz projekta ArtPaintings u index.html, a koji radi
+
+7/-Todoinput.js napravili card, zhatim input-group, button i ostalo
+
+8/-od 29:04 videa rad na contex api pa do 50:00
+ 
